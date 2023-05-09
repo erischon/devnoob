@@ -1,4 +1,4 @@
-import MyProfilePic from "./components/MyProfilePic";
+import Footer from "./components/Footer";
 import Navbar from "./components/Navbar";
 
 import "./globals.css";
@@ -15,10 +15,10 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className="dark:bg-slate-800">
+      <body className="flex flex-col h-screen max-w-2xl mx-auto">
         <Navbar />
-        <MyProfilePic />
-        {children}
+        <main className="flex-grow">{children}</main>
+        <Footer />
       </body>
     </html>
   );

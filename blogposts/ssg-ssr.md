@@ -25,3 +25,6 @@ In that case, you can use **Server-Side Rendering**. It will be slower, but the 
     ```tsx
     test
     ```
+
+    ![Screen Shot 2023-05-06 at 9.31.07  (1).png](https://res.cloudinary.com/dxyabkggp/image/upload/v1683621789/devnoob/blogposts/Screen_Shot_2023-05-06_at_9.31.07_1_lmstnk.png)
+
