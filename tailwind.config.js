@@ -7,7 +7,7 @@ module.exports = {
   ],
   theme: {
     fontFamily: {
-      sans: ["Nunito Sans", "sans-serif"],
+      sans: ["Martel Sans", "sans-serif"],
     },
     extend: {
       backgroundImage: {
