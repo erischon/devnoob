@@ -4,8 +4,8 @@ import Navbar from "./components/Navbar";
 import "./globals.css";
 
 export const metadata = {
-  title: "Devnoob",
-  description: "Dev Noob, journal d'un développeur Full stack",
+  title: "Eri Schön",
+  description: "Journal d'un apprenti développeur Full stack",
 };
 
 export default function RootLayout({
