@@ -9,7 +9,7 @@ export default function Navbar() {
       <div className="flex justify-between flex-col sm:flex-row">
         <h1 className="text-xl font-bold mb-2 md:mb-0">
           <Link href="/" className="no-underline hover:text-stone-500/90">
-            Dev Noob
+            Eri Schön
           </Link>
         </h1>
       </div>
